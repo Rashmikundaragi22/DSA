@@ -17,3 +17,4 @@ function search(nums,target){
 console.log(search([2,3,6,7,8], 4))
 console.log(search([2,3,5,7,8], 7))
 console.log(search(["apple", "banana", "cherry", "grape"], 'cherry'))
+
